@@ -1,0 +1,7 @@
+123,Comunicacion,1,1,0,0
+12345678,Matematica,0,0,0,0
+71976463,Matematica,0,0,0,0
+71976463,Matematica,0,0,0,0
+22222222,Matematica,0,0,0,0
+22222222,Matematica,0,0,0,0
+22222222,Matematica,8,7,3,0

@@ -1,0 +1,5 @@
+71976463,lucas,3245,Masculino,Segundo,1,asd,1234,
+22222222,ffff,33333333,Masculino,Primero,6,asdfgh sdfgh,222222222,,,,,Primero,0,,,
+22222226,s,2,Femenino,Primero,11,w,222222222,
+22222220,www,2,,Primero,11,s,2,
+22,w,2,Masculino,Primero,11,w,2,
